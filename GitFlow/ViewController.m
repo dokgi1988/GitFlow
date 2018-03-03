@@ -9,6 +9,7 @@
 // develop 3
 // feature 3
 // feature 3.1
+// release 0.0.2
 
 #import "ViewController.h"
 
