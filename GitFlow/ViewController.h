@@ -11,6 +11,9 @@
 @interface ViewController : UIViewController
 
 // commit 0
+// branch feature 0
+// branch feature 1
+// release 0.0.1
 
 @property (strong, nonatomic) IBOutlet UIButton *button;
 
