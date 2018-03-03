@@ -13,12 +13,16 @@
 // commit 0
 // branch feature 0
 // branch feature 1
+<<<<<<< HEAD
 // feature 2
 // feature 3
 // develop 2
 // develop 3
 // feature 3
 // feature 3.1
+=======
+// release 0.0.1
+>>>>>>> release/release0.0.1
 
 @property (strong, nonatomic) IBOutlet UIButton *button;
 
