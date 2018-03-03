@@ -9,9 +9,16 @@
 // develop 3
 // feature 3
 // feature 3.1
+<<<<<<< HEAD
+// feature 4
+// develop 4
+// develop 5
+// feature 5
+// feature 6
+=======
 // release 0.0.2
 // release 0.0.2 _ 2
-// master 1
+>>>>>>> release/release0.0.2
 
 #import "ViewController.h"
 
