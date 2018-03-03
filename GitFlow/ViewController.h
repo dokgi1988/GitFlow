@@ -20,22 +20,14 @@
 // feature 3
 // feature 3.1
 // release 0.0.1
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 7fb15a164a9e60408c38fb2da61d1f8241531f87
 // feature 4
 // develop 4
 // develop 5
 // feature 5
 // feature 6
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 7fb15a164a9e60408c38fb2da61d1f8241531f87
 // release 0.0.2
 // release 0.0.2 _ 2
->>>>>>> release/release0.0.2
+// release 0.0.3
 
 @property (strong, nonatomic) IBOutlet UIButton *button;
 
