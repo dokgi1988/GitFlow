@@ -27,6 +27,7 @@
 // develop 8
 // feature_10
 // release 0.0.5
+// release 0.0.6
 
 #import "ViewController.h"
 
