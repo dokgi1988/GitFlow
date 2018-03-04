@@ -36,10 +36,12 @@
 // feature_13
 // develop 0.0.1
 // develop 0.0.2
+// release 0.0.9
 // feature_14
 // develop 0.0.3
 // develop 0.0.4
 // feature_15
+// release 0.1.1
 // release 0.1.2
 // feature_16
 // develop 0.0.5
