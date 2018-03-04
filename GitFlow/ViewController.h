@@ -37,6 +37,7 @@
 // develop 8
 // feature_10
 // feature_11
+// release 0.0.7
 
 @property (strong, nonatomic) IBOutlet UIButton *button;
 
