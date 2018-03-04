@@ -47,6 +47,7 @@
 // develop 0.0.5
 // develop 0.0.6
 // release 0.1.3
+// develop 0.0.7
 
 #import "ViewController.h"
 
